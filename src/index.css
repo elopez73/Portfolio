@@ -1,7 +1,4 @@
 
-* {
-  box-sizing: border-box;
-}
 
 body {
   font-family: sans-serif;
@@ -48,6 +45,8 @@ h1, h2 {
   margin-left: 10%;
   margin-bottom: 3rem;
   padding: 1rem;
+  justify-content: center;
+  align-items: center;
   width: 25%;
 }
 .card h1
@@ -59,6 +58,7 @@ h1, h2 {
 .actions {
 
   align-items: center;
+  justify-content: center;
 
 }
 
