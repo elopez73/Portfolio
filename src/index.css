@@ -23,6 +23,7 @@ h1, h2 {
   color: white;
   border: 1px solid #7395AE;
   margin: 0 1rem;
+  width: max-content;
 }
 
 .btn:hover {
@@ -43,14 +44,22 @@ h1, h2 {
   background-color: #87b4ab;
   border-radius: 4px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  text-align: center;
   margin-left: 10%;
-  margin-bottom: 1rem;
+  margin-bottom: 3rem;
   padding: 1rem;
-  max-width: 100%;
+  width: 25%;
 }
+.card h1
+{
+  color: white;
 
+  font-family: "Century Gothic", 'Lato', sans-serif;
+}
 .actions {
-  text-align: right;
+
+  align-items: center;
+
 }
 
 .modal {
