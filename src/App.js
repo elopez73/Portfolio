@@ -9,9 +9,9 @@ import classes from "./apps.module.css";
 
 function App() {
 	return (
-		<section className={classes.app}>
+		<section className={classes.apps}>
+			 <MainNavigation />
 
-			<MainNavigation />
 			<Routes>
 				<Route path="/" element={<Home />} />
 				<Route path="/About" element={<About />} />
