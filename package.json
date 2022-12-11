@@ -1,6 +1,6 @@
 {
 	"homepage": "https://esaulopez.com",
-	"name": "Portfolio",
+	"name": "esau-app",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
