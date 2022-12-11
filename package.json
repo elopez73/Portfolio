@@ -1,12 +1,15 @@
 {
-	"homepage": "https://esaulopez.com/",
-	"name": "esau-app",
+	"homepage": "https://esaulopez.com",
+	"name": "Portfolio",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/react": "^13.4.0",
 		"@testing-library/user-event": "^13.5.0",
+		"cache": "^3.0.0",
+		"clean": "^4.0.2",
+		"npm": "^9.2.0",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"react-router-dom": "^6.4.4",
