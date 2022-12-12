@@ -20,8 +20,8 @@
 .navBar ul {
 	list-style: none;
 	height: fit-content;
-	padding-left: 3rem;
-	padding-right: 3rem;
+	padding-left: 2.7rem;
+	padding-right: 2.7rem;
 	display: flex;
 }
 
