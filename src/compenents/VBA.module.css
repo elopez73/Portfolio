@@ -1,0 +1,12 @@
+.port
+{
+    display: flex;
+    width: 70%;
+    margin-left: 5%;
+    background-color: #87b4ab;
+}
+.content
+{
+    display: flex;
+    width: 80%;
+}

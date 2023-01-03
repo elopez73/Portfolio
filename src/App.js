@@ -7,10 +7,13 @@ import Contact from "./Contact";
 import classes from "./apps.module.css";
 
 
+
+
 function App() {
 	return (
 		<section className={classes.apps}>
-			 <MainNavigation />
+
+			<MainNavigation />
 
 			<Routes>
 				<Route path="/" element={<Home />} />
@@ -18,6 +21,8 @@ function App() {
 				<Route path="/Projects" element={<Projects />} />
 				<Route path="/Contact" element={<Contact />} />
 			</Routes>
+
+
 
 		</section>
 

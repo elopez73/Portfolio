@@ -1,16 +1,20 @@
-.grid
-{
-    display: flex;
-    flex-direction: row;
-    width: 100%;
+.page {
+justify-content: center;
+width: 100%;
 
 }
-.space
-{
-position: fixed;
-   top: 0;
-   left: 0;
-   opacity: .2;
-   z-index: -1;
 
+.view
+{
+	display: block;
+	padding: 1.5%;
+	height: 100%;
+	width: 65%;
+}
+.space {
+	position: fixed;
+	top: 0;
+	left: 0;
+	opacity: 0.2;
+	z-index: -2;
 }

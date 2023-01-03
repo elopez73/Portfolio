@@ -7,7 +7,7 @@ function MainNavigation() {
 		<header className={classes.navBar}>
 
 			<nav>
-		
+
 				<ul>
 					<li>
 						<Link to="/">Home</Link>
