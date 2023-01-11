@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.a0c38876.css",
-    "main.js": "/static/js/main.97988509.js",
+    "main.css": "/static/css/main.aa213ae0.css",
+    "main.js": "/static/js/main.848ffc01.js",
     "static/media/Space.jpg": "/static/media/Space.5443e1a606a126cd7753.jpg",
     "static/media/Background.jpg": "/static/media/Background.70109a8d600640e08789.jpg",
+    "static/media/core-values.jpg": "/static/media/core-values.c7baae1ddbe645d345c2.jpg",
     "static/media/aboutpic.jpg": "/static/media/aboutpic.7fcca3d9ce7b845088c9.jpg",
+    "static/media/skills.jpg": "/static/media/skills.c032583e2c2713fe363d.jpg",
+    "static/media/career.jpg": "/static/media/career.716968ecca8d1634f2a8.jpg",
+    "static/media/education.jpg": "/static/media/education.542a0b9e94d52929ba30.jpg",
+    "static/media/experience.jpg": "/static/media/experience.6ea3b610594f1bdbd78d.jpg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.a0c38876.css.map": "/static/css/main.a0c38876.css.map",
-    "main.97988509.js.map": "/static/js/main.97988509.js.map"
+    "main.aa213ae0.css.map": "/static/css/main.aa213ae0.css.map",
+    "main.848ffc01.js.map": "/static/js/main.848ffc01.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0c38876.css",
-    "static/js/main.97988509.js"
+    "static/css/main.aa213ae0.css",
+    "static/js/main.848ffc01.js"
   ]
 }
