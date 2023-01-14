@@ -1,14 +1,5 @@
 @import "https://fonts.googleapis.com/css?family=Raleway";
-@media screen and (max-width: 800px) {
-	.navBar ul {
 
-		flex-direction: column;
-	}
-	.navBar li {
-
-		margin-bottom: 5%;
-	}
-}
 
 .navBar {
 	margin: 0;
@@ -79,4 +70,26 @@
 .navBar a:hover:after {
 	opacity: 1;
 	transform: translateY(0px);
+}
+@media screen and (max-width: 800px) {
+	.navBar {
+		margin: 0;
+		display: flex;
+		width: 100%;
+		justify-content: center;
+		align-items: center;
+		padding-top: 1%;
+
+	}
+	.navBar ul {
+		width: fit-content;
+		justify-content: center;
+		align-content: center;
+		flex-direction: column;
+	}
+	.navBar li {
+		margin: 0;
+		justify-content: center;
+		margin-bottom: 5%;
+	}
 }

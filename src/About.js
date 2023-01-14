@@ -14,6 +14,7 @@ const ex = new URL("./experience.jpg", import.meta.url);
 const cp = new URL("./career.jpg", import.meta.url);
 const ed = new URL("./education.jpg", import.meta.url);
 const sk = new URL("./skills.jpg", import.meta.url);
+const hb = new URL("./hobbies.jpg", import.meta.url);
 const liscv = [
 	{
 		In: "Removing your ego: Although we still want to have confidence, we must release our ego's and always allow our minds to intake new information. Even if this informtion is contrairy to what we know, asking questions and learning the truth will always benfit our ability to learn.",
@@ -28,7 +29,7 @@ const liscv = [
 ];
 const lispe =[
 	{
-		In: "In 2015 at 16 years old, I gained a years worth of customer service and stylist skills."
+		In: "In 2014 at 16 years old, I gained 2 years worth of customer service and stylist skills."
 	},
 	{
 		In:
@@ -37,7 +38,7 @@ const lispe =[
 	,
 	{
 		In:
-		 "After returing from Bootcamp in 2017 I started a full time job as a material handler for Baker Electric, while attending school full time."
+		 "After returing from bootcamp in 2017 I started a full time job as a material handler for Baker Electric, while attending school full time."
 	}
 	,
 	{
@@ -192,7 +193,8 @@ const slides = [
 	{ module:(
 		 <Info id="10"
 		  text="Hobbies - Life Stlye"
-		  info1={<InfoList li={lishb} />}/>
+		  info1={<InfoList li={lishb} />}
+		  img={hb}/>
 		 ),
 		 },
 ];
@@ -205,7 +207,7 @@ function About() {
 		infinite: true,
 		centerPadding: "3rem",
 		slidesToShow: 3,
-
+		dots: true,
 		speed: 500,
 		responsive: [
 			{

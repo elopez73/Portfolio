@@ -8,7 +8,6 @@ import classes from "./apps.module.css";
 
 
 
-
 function App() {
 	return (
 		<section className={classes.apps}>
@@ -17,9 +16,9 @@ function App() {
 
 			<Routes>
 				<Route path="/" element={<Home />} />
-				<Route path="/About" element={<About />} />
-				<Route path="/Projects" element={<Projects />} />
-				<Route path="/Contact" element={<Contact />} />
+				<Route path="About" element={<About />} />
+				<Route path="Projects" element={<Projects />} />
+				<Route path="Contact" element={<Contact />} />
 			</Routes>
 
 
