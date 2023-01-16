@@ -9,7 +9,7 @@ const ph = new URL("./phone.png", import.meta.url);
 function Contact(){
 
 
-    return<section>
+    return<section id ="Contact">
         <Opening Name="Contact" intro="Contact information"/>
         <div className={classes.lists}>
 
