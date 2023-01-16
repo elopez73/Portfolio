@@ -4,7 +4,7 @@ function ContactI(props) {
 	return (
 		<div id={props.id} className="card">
 			<h1>{props.text}<div className={classes.im}>
-            <img src={props.img}></img>
+            <img className={classes.image} src={props.img}></img>
             </div>
             </h1>
 			<div className={classes.contactI}>

@@ -231,7 +231,7 @@ function About() {
 	return (
 		<section>
 			<img src={SP} className={classes.space} alt="None"></img>
-			<Opening Name="About me" intro="I love Programing" />
+			<Opening Name="About me" intro="Get to know me." p1="Slide left or right to discover the topics about me. "/>
 
 			<div className={classes.page}>
 				<Slider {...settings}>

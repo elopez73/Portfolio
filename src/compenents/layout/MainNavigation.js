@@ -5,9 +5,10 @@ function MainNavigation() {
 	return (
 
 		<header className={classes.navBar}>
-
+			<div className={classes.dropdown}>
+				<button className={classes.dropbtn}>Menu</button>
 			<nav>
-
+			<div className={classes.dropdownContent}>
 				<ul>
 					<li>
 						<Link to="/#">Home</Link>
@@ -22,7 +23,10 @@ function MainNavigation() {
 						<Link to="/Contact">Contact</Link>
 					</li>
 				</ul>
+				</div>
 			</nav>
+
+			</div>
 		</header>
 
 	);

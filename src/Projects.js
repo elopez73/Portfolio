@@ -5,7 +5,7 @@ import classes from "./projects.module.css";
 function Projects() {
 	return (
 		<section id="project">
-			<Opening Name="Projects" intro="Below are Projects" />
+			<Opening Name="Projects" intro="Current Projects" />
 			<div className={classes.frames}>
 
 				<div className={classes.frame}>
