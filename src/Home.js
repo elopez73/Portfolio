@@ -10,7 +10,7 @@ function Home(){
         <Opening intro ="Hi my Name is," Name="Esau Lopez" p1="Web Developer" />
 
         <div className={classes.grid}>
-        <HomeI Head="Educated and self taught Web Developer based in the Phoenix Metro Area." image={ani} par="This website is deigned using React Native and hosted using Github Pages. "/>
+        <HomeI Head="Educated and self taught Web Developer based in the Phoenix Metro Area." image={ani} par="This website is designed using React and hosted using Github Pages. "/>
 
 
        </div>

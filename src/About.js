@@ -17,7 +17,7 @@ const sk = new URL("./skills.jpg", import.meta.url);
 const hb = new URL("./hobbies.jpg", import.meta.url);
 const liscv = [
 	{
-		In: "Removing your ego: Although we still want to have confidence, we must release our ego's and always allow our minds to intake new information. Even if this informtion is contrairy to what we know, asking questions and learning the truth will always benfit our ability to learn.",
+		In: "Removing your ego: Although we still want to have confidence, we must release our ego's and always allow our minds to intake new information. Even if this information is contrary to what we know, asking questions and learning the truth will always benefit our ability to learn.",
 	},
 	{ In: "Working hard: I strive to love where I work and what I do." },
 	{
@@ -33,22 +33,22 @@ const lispe =[
 	},
 	{
 		In:
-		 "In 2016 at 17 Years old, I signed a 6 year contract with the United states Air Force Reserves. I would then end my contract in 2022."
+		 "In 2016 at 17 Years old, I signed a 6 year contract with the United States Air Force Reserves. I would then end my contract in 2022."
 	}
 	,
 	{
 		In:
-		 "After returing from bootcamp in 2017 I started a full time job as a material handler for Baker Electric, while attending school full time."
+		 "After returning from boot camp in 2017 I started a full time job as a material handler for Baker Electric, while attending school full time."
 	}
 	,
 	{
 		In:
-		 "I was accepeted into a 4 year degree at GCU and attended from 2018-2020, meanwile having several part time jobs throughout those years such at Starbucks, Summer install jobs, and small teaching jobs."
+		 "I was accepted into a 4 year degree at GCU and attended from 2018-2020, meanwhile having several part time jobs throughout those years such at Starbucks, Summer installation jobs, and small teaching jobs."
 	}
 	,
 	{
 		In:
-		 "In 2020 I met my beautiful wife, after a calculated decision, I went to look for a full time postion while she finished her nursing degree. I was an employee at UbreakIfix from September- December where I then became an employee at Safelite from December-2020 to July-2021."
+		 "In 2020 I met my beautiful wife, after a calculated decision, I went to look for a full time position while she finished her nursing degree. I was an employee at UbreakIfix from September- December where I then became an employee at Safelite from December-2020 to July-2021."
 	}
 	,
 	{
@@ -72,7 +72,7 @@ const lised =[
 	,
 	{
 		In:
-		 "2018 to 2020- Grand Canyon University, AZ. Completed over 70 College credits towards a Bachlors Degree in Computer Science."
+		 "2018 to 2020- Grand Canyon University, AZ. Completed over 70 College credits towards a Bachelors Degree in Computer Science."
 	}
 	,
 	{
@@ -91,7 +91,7 @@ const lissk =[
 	},
 	{
 		In:
-		 "HTML,CSS, and Javascript- I have 4 years of general experience from college courses and freelace projects."
+		 "HTML,CSS, and Javascript- I have 4 years of web development from college courses and freelace projects."
 	}
 	,
 	{
@@ -101,12 +101,12 @@ const lissk =[
 	,
 	{
 		In:
-		 "React- I have 1 Year of freelance experience/self taught. I have never taken courses, the website you are currtly visiting is my first ever React Project."
+		 "React- I have 1 Years of freelance experience/self taught. I have never taken courses, the website you are currently visiting is my first ever React Project."
 	}
 	,
 	{
 		In:
-		 "Overall I have 7 years of customer service, Programming, Code Logic, and work experience."
+		 "Overall, I have over 7 years of customer service, Programming, Code Logic, and work experience."
 	}
 
 ];
@@ -146,7 +146,7 @@ const slides = [
 			<Info
 				id="2"
 				text="Who I am"
-				info1="I am a 24 Year old Web Devloper and Husband. I am originally from California and I am looking to find my way as a Junior Developer. I have several years of experience in both development and general work experience. I am determined and extremely self motivated in my day to day life. "
+				info1="I am a 24 Year old Web Developer and Husband. I am originally from California and I am looking to find my way as a Junior Developer. I have several years of experience in both development and general work experience. I am determined and extremely self motivated in my day to day life. "
 				img={ab}
 			/>
 		),
@@ -170,7 +170,7 @@ const slides = [
 	{ module:(
 		 <Info id="7"
 	 text="Career Goals"
-	 info1="I am hoping to further my career and become a Web Developer, since my time in high school and college I have learned a vast amount of coding languages which inlclude C++, Javascript, HTML, CSS, SQL, and React. I aim to increase my knowledge. I have created two websites where I have purchesed Domains and are currently live using Github Pages to host. Given the opprotunity, I will utilize all the skills in my arsenal while also gaining and applying new knowledge."
+	 info1="I am hoping to further my career and become a Web Developer, since my time in high school and college I have learned a vast amount of coding languages which include C++, Javascript, HTML, CSS, SQL, and React. I aim to increase my knowledge. I have created two websites where I have purchased Domains and are currently live using Github Pages to host. Given the opportunity, I will utilize all the skills in my arsenal while also gaining and applying new knowledge."
 	 img={cp}/>
 	),
  },

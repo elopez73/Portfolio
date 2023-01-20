@@ -24,7 +24,7 @@ function Projects() {
 							this webpage to assist Medical Billers.
 							<br />
 							The website is a guide that shows them locations within the
-							program that correlate with the Medical form they use
+							program that correlates with the Medical form they use
 							<br />
 							known as the CMS-1500. It also includes electronic locations for
 							billers that send electronically.
