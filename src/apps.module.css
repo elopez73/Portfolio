@@ -4,4 +4,14 @@
     flex-direction: column;
 
     margin: 0;
+    overflow: hidden;
+  scroll-behavior: smooth;
+}
+.bg {
+	padding: 0;
+	position: fixed;
+	top: 0;
+	left: 0;
+	opacity: 0.2;
+	z-index: -1;
 }

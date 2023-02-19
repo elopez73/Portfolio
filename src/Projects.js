@@ -1,9 +1,9 @@
 import Opening from "./compenents/Opening";
-import Info from "./compenents/Info";
+import Animated from "./compenents/Animated";
 import classes from "./projects.module.css";
 
 function Projects() {
-	return (
+	return (<Animated>
 		<section id="project">
 			<Opening Name="Projects" intro="Current Projects" />
 			<div className={classes.frames}>
@@ -54,6 +54,7 @@ function Projects() {
 				</div>
 			</div>
 		</section>
+		</Animated>
 	);
-}
+};
 export default Projects;

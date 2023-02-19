@@ -1,6 +1,7 @@
 import Opening from "./compenents/Opening";
 import ContactI from "./compenents/ContactI";
 import classes from "./contact.module.css";
+import Animated from "./compenents/Animated";
 import { Emailsend } from "./compenents/Emailsend";
 const li = new URL("./Link.png", import.meta.url);
 const gm = new URL("./gmail.png", import.meta.url);
@@ -9,7 +10,8 @@ const ph = new URL("./phone.png", import.meta.url);
 function Contact(){
 
 
-    return<section id ="Contact">
+    return(<Animated>
+    <section id ="Contact">
         <Opening Name="Contact" intro="Contact information"/>
         <div className={classes.lists}>
 
@@ -26,5 +28,7 @@ function Contact(){
 
 
     </section>
-}
+    </Animated>
+    );
+};
 export default Contact;

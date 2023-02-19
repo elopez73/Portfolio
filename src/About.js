@@ -5,9 +5,10 @@ import Opening from "./compenents/Opening";
 import Info from "./compenents/Info";
 import classes from "./about.module.css";
 import InfoList from "./compenents/Infolist";
+import Animated from "./compenents/Animated";
 import "./aboutslide.css";
 
-const SP = new URL("./Space.jpg", import.meta.url);
+
 const ab = new URL("./aboutpic.jpg", import.meta.url);
 const cv = new URL("./core-values.jpg", import.meta.url);
 const ex = new URL("./experience.jpg", import.meta.url);
@@ -228,9 +229,9 @@ function About() {
 		],
 	};
 
-	return (
+	return (<Animated>
 		<section>
-			<img src={SP} className={classes.space} alt="None"></img>
+
 			<Opening Name="About me" intro="Get to know me." p1="Slide left or right to discover the topics about me. "/>
 
 			<div className={classes.page}>
@@ -241,6 +242,7 @@ function About() {
 				</Slider>
 			</div>
 		</section>
+		</Animated>
 	);
-}
+};
 export default About;

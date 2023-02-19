@@ -10,6 +10,7 @@
 		"@testing-library/user-event": "^13.5.0",
 		"cache": "^3.0.0",
 		"clean": "^4.0.2",
+		"framer-motion": "^8.5.2",
 		"npm": "^9.2.0",
 		"react": "^18.2.0",
 		"react-animated-slider": "^1.1.4",
