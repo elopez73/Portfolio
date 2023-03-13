@@ -35,22 +35,25 @@ function Projects() {
 
 				<div className={classes.frame}>
 				<div className={classes.info}>
-				<h1>Portfolio</h1>
+				<h1>Check List</h1>
 						<p>
-						<a href="https://www.esaulopez.com" target="_blank">
+						<a href="https://main--golden-panda-a78175.netlify.app" target="_blank">
 							Click here to open in a new tab
 						</a>
 
 						</p>
 						<p>
-							Portfolio website currently in development.
+							Check List Website currently in development.
+						</p>
+						<p>
+							Following REST API design rules and parsed multiple data types into JSON in the responses.
 						</p>
 					</div>
 
 					<p>
 
 					</p>
-					<iframe src="https://www.esaulopez.com" />
+					<iframe src="https://main--golden-panda-a78175.netlify.app/" />
 				</div>
 			</div>
 		</section>
