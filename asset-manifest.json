@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.af4cf08a.css",
-    "main.js": "/static/js/main.a7dacd5b.js",
+    "main.css": "/static/css/main.51670fad.css",
+    "main.js": "/static/js/main.2d4ef3ba.js",
     "static/media/hobbies.jpg": "/static/media/hobbies.803d59e373aa8c39ce7d.jpg",
+    "static/media/certifications.jpg": "/static/media/certifications.55916b1f4fea6c42827d.jpg",
     "static/media/Background.jpg": "/static/media/Background.70109a8d600640e08789.jpg",
+    "static/media/ReactNative2.jpg": "/static/media/ReactNative2.b755710dcacd330ef201.jpg",
     "static/media/ProPic.jpg": "/static/media/ProPic.489a2e9c880c9447dbeb.jpg",
+    "static/media/ReactNative.jpg": "/static/media/ReactNative.22d4d2c461c03a9cdc3e.jpg",
     "static/media/core-values.jpg": "/static/media/core-values.c7baae1ddbe645d345c2.jpg",
     "static/media/aboutpic.jpg": "/static/media/aboutpic.7fcca3d9ce7b845088c9.jpg",
     "static/media/skills.jpg": "/static/media/skills.c032583e2c2713fe363d.jpg",
     "static/media/career.jpg": "/static/media/career.716968ecca8d1634f2a8.jpg",
     "static/media/education.jpg": "/static/media/education.542a0b9e94d52929ba30.jpg",
     "static/media/experience.jpg": "/static/media/experience.6ea3b610594f1bdbd78d.jpg",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.af4cf08a.css.map": "/static/css/main.af4cf08a.css.map",
-    "main.a7dacd5b.js.map": "/static/js/main.a7dacd5b.js.map"
+    "main.51670fad.css.map": "/static/css/main.51670fad.css.map",
+    "main.2d4ef3ba.js.map": "/static/js/main.2d4ef3ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.af4cf08a.css",
-    "static/js/main.a7dacd5b.js"
+    "static/css/main.51670fad.css",
+    "static/js/main.2d4ef3ba.js"
   ]
 }
