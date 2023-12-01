@@ -1,11 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.51670fad.css",
-    "main.js": "/static/js/main.16e5bf58.js",
+    "main.js": "/static/js/main.8f1cb607.js",
     "static/media/hobbies.jpg": "/static/media/hobbies.803d59e373aa8c39ce7d.jpg",
     "static/media/certifications.jpg": "/static/media/certifications.55916b1f4fea6c42827d.jpg",
     "static/media/Background.jpg": "/static/media/Background.70109a8d600640e08789.jpg",
+    "static/media/mobiledev.jpg": "/static/media/mobiledev.ec9c3b14edc07ba7c9db.jpg",
+    "static/media/uiux.jpg": "/static/media/uiux.edf441bcc10ce0e8fa83.jpg",
+    "static/media/Data.jpg": "/static/media/Data.af339e00eee08d3ee808.jpg",
+    "static/media/version.jpg": "/static/media/version.d9668c051be0469f7be6.jpg",
+    "static/media/JavaScript.jpg": "/static/media/JavaScript.1c9c2c95798cb76ca877.jpg",
     "static/media/ReactNative2.jpg": "/static/media/ReactNative2.b755710dcacd330ef201.jpg",
+    "static/media/Agile.jpg": "/static/media/Agile.2d45f66670915a4db8be.jpg",
     "static/media/ProPic.jpg": "/static/media/ProPic.489a2e9c880c9447dbeb.jpg",
     "static/media/ReactNative.jpg": "/static/media/ReactNative.22d4d2c461c03a9cdc3e.jpg",
     "static/media/core-values.jpg": "/static/media/core-values.c7baae1ddbe645d345c2.jpg",
@@ -16,10 +22,10 @@
     "static/media/experience.jpg": "/static/media/experience.6ea3b610594f1bdbd78d.jpg",
     "index.html": "/index.html",
     "main.51670fad.css.map": "/static/css/main.51670fad.css.map",
-    "main.16e5bf58.js.map": "/static/js/main.16e5bf58.js.map"
+    "main.8f1cb607.js.map": "/static/js/main.8f1cb607.js.map"
   },
   "entrypoints": [
     "static/css/main.51670fad.css",
-    "static/js/main.16e5bf58.js"
+    "static/js/main.8f1cb607.js"
   ]
 }
